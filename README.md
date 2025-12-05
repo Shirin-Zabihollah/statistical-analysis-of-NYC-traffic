@@ -1,4 +1,4 @@
- NYC Traffic Speed Analysis
+**NYC Traffic Speed Analysis**
 Statistical Study Using Skewness & Kurtosis
 
 
@@ -101,8 +101,9 @@ This project reflects my ability to use statistical concepts to derive practical
 
 **Author**
 
-Shirin Zabihollah
-Data Analysis Student
-University of Messina
 
-Passionate about statistics, data analysis, and real-world data interpretation
+Shirin Zabihollah
+
+Data Analysis student with a strong interest in statistical modeling, data visualization, and applied analytics.
+
+Feel free to check my GitHub profile for more analytical and data-driven project
